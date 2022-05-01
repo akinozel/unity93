@@ -3,7 +3,6 @@ oyun uygulama akademisi 2021-2022 unity 93.grup
 # **Takım İsmi**
 
 Takım 93
-//gurin ofisu
 
 # Ürün İle İlgili Bilgiler
 
