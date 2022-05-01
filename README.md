@@ -2,19 +2,21 @@
 oyun uygulama akademisi 2021-2022 unity 93.grup
 # **Takım İsmi**
 
-Takım X
+Takım 93
+//gurin ofisu
 
 # Ürün İle İlgili Bilgiler
 
+
 ## Takım Elemanlarıı
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Muhammed Cuma DURAN: Product Owner
+- Muhammet Akın ÖZEL: Scrum Master
+- Emir EĞRİCESU: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+--Muhittinin Macerası--
 
 ## Ürün Açıklaması
 
@@ -29,11 +31,11 @@ Takım X
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- 15 yaş üstü oyuncular
+- Oyunseverler
+- Macera tutkunları
+- Hikaye severler
+- Souls-like sevenler
 
 ## Product Backlog URL
 
