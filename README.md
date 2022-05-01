@@ -6,7 +6,7 @@ Takım X
 
 # Ürün İle İlgili Bilgiler
 
-## Takım Elemanları
+## Takım Elemanlarıı
 
 - John Doe: Product Owner
 - Jane Doe: Scrum Master
