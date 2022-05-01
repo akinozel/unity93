@@ -20,7 +20,8 @@ Takım 93
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Günlerden bir gün Muhittin çiçeğinin kaybolduğunu fark eder. Teçhizatını kuşanıp yüzyıllardır kimsenin ayrılmadığı krallığın dışına çıkar. Muhittinin macerası çiçeğine olan aşkıyla başlamış olur.
+
 
 ## Ürün Özellikleri
 
