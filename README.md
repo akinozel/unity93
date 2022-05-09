@@ -24,10 +24,9 @@ Takım 93
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Soulslike oyuncuları zevk doruğuna ulaştırmak
+- İzometrik aksiyonu olması
+- Hikayesiyle oyuncuyu etkilemesi
 
 ## Hedef Kitle
 
