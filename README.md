@@ -27,6 +27,7 @@ Takım 93
 - Soulslike oyuncuları zevk doruğuna ulaştırmak
 - İzometrik aksiyonu olması
 - Hikayesiyle oyuncuyu etkilemesi
+- Boss ağırlıklı bir gameplay
 
 ## Hedef Kitle
 
