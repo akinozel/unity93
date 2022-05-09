@@ -53,28 +53,31 @@ Takım 93
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır:
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği PNG olarak Readme'de tarafımızdan paylaşılmaktadır:
 ![sprintchat](https://user-images.githubusercontent.com/104321518/167486824-577bbec7-c2b0-47a9-ab86-52a03a3c2665.png)
+![sprintchat2](https://user-images.githubusercontent.com/104321518/167486971-c1ca8088-6eb9-4076-a07c-29759622ab7e.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![sprint1](https://user-images.githubusercontent.com/104321518/167487176-9752aee9-e537-4af7-8db7-ceb169e3ac2b.PNG)
+![sprint2](https://user-images.githubusercontent.com/104321518/167487180-4b9702e7-1193-4e9e-9e0d-193946ac8ac1.PNG)
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+![urundurumu](https://user-images.githubusercontent.com/104321518/167487243-655815bd-4da1-4d9a-85e3-73a16f1dd6f6.png)
+
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Oyun stilinde karar kılındı. Unity üzerinde animasyonlar için çalışmalara başlanacak. En yakın zamanda dünya modellemesine başlanıcak.
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Projenin üstüne daha çok vakit ayırma kararı aldık
+  - Motivasyonumuzu arttıracağız
+  - Daha çok modelleme için uğraşacağız
 
 -**Diğer Notlar**:
-- N/A
+- Akının vizeleri olduğundan çok üstüne düşemedi
+- Muhammed memleketten döndü, harika günler bizi bekliyor
+- Emir ise kişisel projesini bitirdi, projeye tam vaktini ayırcak
 
 ---
 
