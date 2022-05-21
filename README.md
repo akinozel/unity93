@@ -106,20 +106,19 @@ Alınan kararlar: Oyun stilinde karar kılındı. Unity üzerinde animasyonlar i
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
+![uideneme1](https://user-images.githubusercontent.com/104321518/169665545-8034a1db-5bb5-40b1-a86b-beb61912c384.png)
 
 
 - **Sprint Review**: 
-Alınan kararlar: Oyun stilinde karar kılındı. Unity üzerinde animasyonlar için çalışmalara başlanacak. En yakın zamanda dünya modellemesine başlanıcak.
+Alınan kararlar: Boss teması değiştirildi. Olay örgüsünde değişikliğe gidildi. Haftada bir oyunu daha hızlı geliştirmek için maraton yapılma kararı alındı.
 
 - **Sprint Retrospective:**
   - Projenin üstüne daha çok vakit ayırma kararı aldık
   - Motivasyonumuzu arttıracağız
-  - Daha çok modelleme için uğraşacağız
 
 -**Diğer Notlar**:
-- Akının vizeleri olduğundan çok üstüne düşemedi
-- Muhammed memleketten döndü, harika günler bizi bekliyor
-- Emir ise kişisel projesini bitirdi, projeye tam vaktini ayırcak
+- Emir freelance işleri yüzünden çok vakit ayıramadı
+- Akın'ın erasmus işleri uzadı
 
 ---
 
