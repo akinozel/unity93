@@ -87,9 +87,10 @@ Alınan kararlar: Oyun stilinde karar kılındı. Unity üzerinde animasyonlar i
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 2. sprint için 100 3. sprint için 180 puan düşünülmüştür.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog düzeni ve Story seçimleri**: Backlogumuz tamamen tasklere göre düzenlenmiştir. 
+- Zor taskler(kırmızı renkli):toplamda 50 puan. Orta taskler(mavi) toplamda 30 puan. Kolay taskler için ise toplam 20 puan ayırılmıştır.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği PNG olarak Readme'de tarafımızdan paylaşılmaktadır:
 - 
