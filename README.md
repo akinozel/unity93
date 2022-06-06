@@ -124,5 +124,41 @@ Alınan kararlar: Boss teması değiştirildi. Olay örgüsünde değişikliğe 
 ---
 
 # Sprint 3
+- **Sprint Notları**: Oyunun demosu tamamlandı
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 180 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 180 ile bitmesi gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz tasklere göre düzenlenmiştir.
+
+- **Daily Scrum**: Daily Scrum meşguliyetimizden ötürü genellikle whatsappta ve az da olsa discordtan yürütülmüştür:
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+![sprint1](https://user-images.githubusercontent.com/104321518/167487176-9752aee9-e537-4af7-8db7-ceb169e3ac2b.PNG)
+![sprint2](https://user-images.githubusercontent.com/104321518/167487180-4b9702e7-1193-4e9e-9e0d-193946ac8ac1.PNG)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![urundurumu]
+
+
+- **Sprint Review**: 
+Alınan kararlar: Bu sprintte tahminden fazla aksama gerçekleşti ancak elimizde olmayan sebeplerden dolayı olduğu için bir karar alınmadı.
+
+- **Sprint Retrospective:**
+  - Önümüzdeki unity projelerinde daha düzenli olacağız.
+  - Motivasyonumuzu arttıracağız
+  - Kendi vaktimize göre plan yapacağız bu işi bir yan görev değil bir ana görev edasında önemseyeceğiz
+
+-**Diğer Notlar**:
+- Akın Erasmusu kazandığı için belge işleriyle uğraştı. Ayrıca evi boyandığı ve mantolama yapıldığı için destek veremedi.
+- Muhammedin finalleri başladığı için meşguldü.
+- Emir hem işe girdiği için hem finalleri başladığı için meşguldü.
+
+-**Ayrıca**:
+Oyun ve uygulama akademisine bize sunduğu imkanlardan dolayı teşekkür ediyor ve unity ile oyun geliştirme için bizim ilk adımlarımız olduğu için çok mutluyuz burada kazandığımız bilgileri yüksek bir verimle kullanamış olsak da önümüzdeki projelerimizde çok işimize yarayacağını düşünüyoruz teşekkürler.
+
+---
 ---
