@@ -136,8 +136,10 @@ Alınan kararlar: Boss teması değiştirildi. Olay örgüsünde değişikliğe 
 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![sprint1](https://user-images.githubusercontent.com/104321518/167487176-9752aee9-e537-4af7-8db7-ceb169e3ac2b.PNG)
-![sprint2](https://user-images.githubusercontent.com/104321518/167487180-4b9702e7-1193-4e9e-9e0d-193946ac8ac1.PNG)
+![backlog1](https://user-images.githubusercontent.com/86601365/172230843-53b58240-3f97-4306-a899-c1051e6cb71a.PNG)
+![backlog2](https://user-images.githubusercontent.com/86601365/172230854-90a85db0-f3c5-4c20-b644-0762d16491f9.PNG)
+
+
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
