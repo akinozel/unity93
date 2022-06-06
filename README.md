@@ -141,7 +141,9 @@ Alınan kararlar: Boss teması değiştirildi. Olay örgüsünde değişikliğe 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![urundurumu]
+![Ekran Alıntısı](https://user-images.githubusercontent.com/86601365/172228448-d1e71bcb-6ef9-41ef-8322-d5870d02305f.PNG)
+![Ekran Alıntısı2](https://user-images.githubusercontent.com/86601365/172228465-bc0dbb09-cbb0-49c7-bdb5-df75a13785ea.PNG)
+
 
 
 - **Sprint Review**: 
