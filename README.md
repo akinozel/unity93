@@ -123,7 +123,7 @@ Alınan kararlar: Boss teması değiştirildi. Olay örgüsünde değişikliğe 
 
 ---
 
-# Sprint 3(DÜZENLENECEK)
+# Sprint 3
 - **Sprint Notları**: Oyunun demosu tamamlandı
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 180 Puan
